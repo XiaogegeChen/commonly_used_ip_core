@@ -47,3 +47,5 @@ int main(int argc, char const *argv[]) {
     return 0;
 }
 ```
+
+## xdma_irq_ctrl
